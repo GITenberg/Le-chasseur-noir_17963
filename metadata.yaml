@@ -1,0 +1,31 @@
+_repo: Le-chasseur-noir_17963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chevalier, H. Emile (Henri Emile)
+    aliases:
+    - Chevalier, Émile
+    - Chevalier, H. Émile (Henri Émile)
+    - Chevalier, Henri Emile
+    birthdate: 1828
+    deathdate: 1879
+    gutenberg_agent_id: '7724'
+    url: http://www.gutenberg.org/2009/agents/7724
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17963'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Canada -- Fiction'
+title: Le chasseur noir
+url: http://www.gutenberg.org/ebooks/17963
